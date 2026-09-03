@@ -18,15 +18,17 @@ Además de métodos públicos como:
 A continuación, el ejercicio principal de la actividad: escribir el código en Java
 
 Dentro del Main.java
-<img width="651" height="442" alt="image" src="https://github.com/user-attachments/assets/7d677253-f2f0-4e5c-b1d1-15cbf4b444f1" />
+<img width="1014" height="409" alt="image" src="https://github.com/user-attachments/assets/c7250f6d-4183-4f36-a686-c7035100b2bf" />
+
 
 Salida:
-<img width="303" height="300" alt="image" src="https://github.com/user-attachments/assets/e6169f38-6bda-4868-9966-928564aac6d8" />
+<img width="986" height="309" alt="image" src="https://github.com/user-attachments/assets/5430d5ab-0af6-4f52-b6e7-a4b29b572816" />
+
 
 Dentro de TV.java
-<img width="702" height="746" alt="image" src="https://github.com/user-attachments/assets/9ae61b8c-c24b-4934-b4a3-4e5f23bef16c" />
-<img width="642" height="768" alt="image" src="https://github.com/user-attachments/assets/62fdeb2d-6a1b-495c-bdbe-b1b534826e2c" />
+<img width="1013" height="750" alt="image" src="https://github.com/user-attachments/assets/d07f6a0f-6ed7-4a55-a54a-80132464a29b" />
 
+<img width="1023" height="666" alt="image" src="https://github.com/user-attachments/assets/8a07d5db-0aae-4c7f-971d-2c80002e8365" />
 
 Observaciones:
 Me pareció un ejercicio muy interesante, creo que pude implementar getters para obtener el estado actual de objeto, pero no lo agregué por cuestiones de tiempo y porque no lo pide el ejercicio, sin embargo, me propongo la tarea de mejorar las funcionalidades del código, ya que considero que cubrí solo lo básico. Me resultó muy familiar ya que vimos ejemplos similares en clase.
